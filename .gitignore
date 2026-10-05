@@ -1,0 +1,25 @@
+# This repository only publishes the iOS app and its supporting project files.
+*
+
+!.gitignore
+!README.md
+
+!Screenshots/
+!Screenshots/*.png
+
+!WalletPrototype/
+!WalletPrototype/**
+
+!WalletPrototypeTests/
+!WalletPrototypeTests/**
+
+!WalletPrototypeUITests/
+!WalletPrototypeUITests/**
+
+!WalletPrototype.xcodeproj/
+!WalletPrototype.xcodeproj/project.pbxproj
+!WalletPrototype.xcodeproj/xcshareddata/
+!WalletPrototype.xcodeproj/xcshareddata/**
+
+!DesignAssets/
+!DesignAssets/WalletPrototype-AppIcon.svg
